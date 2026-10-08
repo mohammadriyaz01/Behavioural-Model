@@ -310,7 +310,7 @@ Use environment variables or secure configuration methods for sensitive informat
 
 To download this project from GitHub:
 
-git clone https://github.com/Varsha-998921/Behavioural-Model.git
+https://github.com/mohammadriyaz01/Behavioural-Model.git
 
 
 Then:
@@ -337,9 +337,9 @@ git push origin feature/new-analysis
 
 👤 Author
 
-Varsha
+Riyaz 
 
-GitHub: https://github.com/Varsha-998921
+GitHub: https://github.com/mohammadriyaz01
 
 📄 License
 
