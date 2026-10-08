@@ -1,0 +1,13 @@
+Requirements:
+metabase link:
+Download metabase.jar v0.62.18
+
+Doenload java 25
+Oracle Java Downloads
+
+
+To Run:
+java --add-opens java.base/java.nio=ALL-UNNAMED -jar metabase.jar
+
+Access Metabase
+Open your browser and go to http://localhost:3000/setup
